@@ -62,6 +62,5 @@ This project relies on the following open-source technologies:
 - Font [Scriptina](https://www.fontsquirrel.com/fonts/scriptina) [logo]
 - And of course a lot of engagement :muscle:
 
-## Copyright
+## Licensing
 This project is licensed under the terms of the EUPL (1.2 or later).  
-Copyright © 2019-2020 geremde.  
