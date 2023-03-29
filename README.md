@@ -14,7 +14,7 @@ The project in a nutshell:
 git clone https://github.com/germede/Fluentness
 ```
 
-### 2. :desktop_computer: Compile and install the sources into your local repository 
+### 2. :computer: Compile and install the sources into your local repository 
 ```bash
 cd Fluentness && mvn clean install
 ```
